@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/Zelda3DSView/v15
+/Zelda3DView
+/Zelda3DView
+/Zelda3DView/Debug
+*.log
+/Zelda3DView/Debug/Zelda3DView.log
